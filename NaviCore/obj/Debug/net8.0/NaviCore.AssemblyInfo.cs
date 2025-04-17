@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NaviCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95038328fe585f0aa411618305b3791b5777ed2e")]
 [assembly: System.Reflection.AssemblyProductAttribute("NaviCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NaviCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
