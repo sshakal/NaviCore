@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SRAprTl39NU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KolganovIN\\source\\repos\\NaviCore\\NaviCore\\NaviCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KolganovIN\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
